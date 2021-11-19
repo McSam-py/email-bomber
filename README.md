@@ -19,9 +19,10 @@ For Linux:<br>
   --> Type in terminal: `python3 emailb0mb3r.py`<br>
 
 # Demonstration
---> Enterinn details.
+--> Entering details.<br>
 ![Image of Banner](/images/pic1.JPG)
 ![Image of Banner](/images/pic2.JPG)
 
-
+# 100% Working
+![Image of Banner](/images/pic3.JPG)
 

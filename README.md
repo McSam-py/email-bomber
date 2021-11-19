@@ -13,6 +13,9 @@ Simple program in python for send multiplte emails to a specific target.
   --> For Linux: `pip3 install -r requirements.txt`
   
 # Usage
+Incase you are using gmail for this make sure you turn less secure apps on.
+--> link: https://myaccount.google.com/lesssecureapps
+
 For Windows:<br>
   --> Type in terminal: `python emailb0mb3r.py`<br>
 For Linux:<br>

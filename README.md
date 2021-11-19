@@ -13,7 +13,7 @@ Simple program in python for send multiplte emails to a specific target.
   --> For Linux: `pip3 install -r requirements.txt`
   
 # Usage
-Incase you are using gmail for this make sure you turn less secure apps on.
+Incase you are using gmail for this make sure you turn less secure apps on.<br>
 --> link: https://myaccount.google.com/lesssecureapps
 
 For Windows:<br>

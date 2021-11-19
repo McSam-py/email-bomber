@@ -26,3 +26,6 @@ For Linux:<br>
 # 100% Working
 ![Image of Banner](/images/pic3.JPG)
 
+# Disclaimer!! 
+Please this tool is for educational purposes only.
+I am not responsible for anything malicious you use this tool for.

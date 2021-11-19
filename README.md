@@ -9,7 +9,7 @@ Simple program in python for send multiplte emails to a specific target.
   --> `cd email-bomber`
   
 3. Install requirements:<br>
-  --> For Windows: `pip install -r requiremrnts.txt`<br>
+  --> For Windows: `pip install -r requirements.txt`<br>
   --> For Linux: `pip3 install -r requirements.txt`
   
 # Usage

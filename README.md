@@ -27,5 +27,5 @@ For Linux:<br>
 ![Image of Banner](/images/pic3.JPG)
 
 # Disclaimer!! 
-Please this tool is for educational purposes only.
+Please this tool is for educational purposes only.<br>
 I am not responsible for anything malicious you use this tool for.

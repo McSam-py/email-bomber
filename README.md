@@ -28,4 +28,4 @@ For Linux:<br>
 
 # Disclaimer!! 
 Please this tool is for educational purposes only.<br>
-I am not responsible for anything malicious you use this tool for.
+I will not be responsible for anything malicious you use this tool for.
